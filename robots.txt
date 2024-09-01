@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tughaude.github.io/sitemap.html.gz
+Sitemap: https://tughaude.github.io/app/sitemap.html.gz
+Sitemap: https://tughaude.github.io/assets/sitemap.html.gz
+Sitemap: https://tughaude.github.io/css/sitemap.html.gz
+Sitemap: https://tughaude.github.io/includes/sitemap.html.gz
+Sitemap: https://tughaude.github.io/item/sitemap.html.gz
+Sitemap: https://tughaude.github.io/src/sitemap.html.gz
